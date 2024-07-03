@@ -1,4 +1,4 @@
-"# DigitRecognition" 
+# DigitRecognition
 This project is a Flask web application that allows users to upload images and get predictions using either a pre-trained Support Vector Machine (SVM) model or a Convolutional Neural Network (CNN) model. Users can select the model they wish to use for the prediction via a dropdown menu.
 
 #### Features
